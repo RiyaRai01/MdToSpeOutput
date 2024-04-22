@@ -1,0 +1,15 @@
+
+  <form method="post" asp-controller="Home" asp-action="TranformContent" >
+     @if (!string.IsNullOrEmpty(ViewBag.HtmlContent))
+    {
+        <input type="hidden" name="htmlContent" value="@ViewBag.HtmlContent" />
+        <div>
+            @Html.Raw(ViewBag.HtmlContent)
+        </div>
+    }
+    else
+    {
+        <div>No HTML content available.</div>
+    }
+    <input type="submit" value="Submit" />
+  </form>

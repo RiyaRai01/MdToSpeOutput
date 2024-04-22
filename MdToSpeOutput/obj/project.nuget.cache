@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWGu5P1nnRmNw5UTWqGUjUPUptuJNNwXgwy3sTUdJ4AlnjJAj3BKg0FavEn8egfQbfTHQyMPKi1VachkYZoikQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RRai\\Documents\\MdToSpeOutput\\MdToSpeOutput\\MdToSpeOutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RRai\\.nuget\\packages\\markdig\\0.37.0\\markdig.0.37.0.nupkg.sha512"
+  ],
+  "logs": []
+}
