@@ -31,3 +31,37 @@ C:\Users\RRai\Documents\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\refint\MdTo
 C:\Users\RRai\Documents\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.pdb
 C:\Users\RRai\Documents\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.genruntimeconfig.cache
 C:\Users\RRai\Documents\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\ref\MdToSpeOutput.dll
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\appsettings.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\MdToSpeOutput.staticwebassets.runtime.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\MdToSpeOutput.exe
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\MdToSpeOutput.deps.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\MdToSpeOutput.runtimeconfig.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\MdToSpeOutput.dll
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\MdToSpeOutput.pdb
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\bin\Debug\net8.0\Markdig.dll
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.csproj.AssemblyReference.cache
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.AssemblyInfoInputs.cache
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.AssemblyInfo.cs
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.csproj.CoreCompileInputs.cache
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.RazorAssemblyInfo.cache
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.RazorAssemblyInfo.cs
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.sourcelink.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets\msbuild.MdToSpeOutput.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets\msbuild.build.MdToSpeOutput.props
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MdToSpeOutput.props
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MdToSpeOutput.props
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\scopedcss\bundle\MdToSpeOutput.styles.css
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\scopedcss\projectbundle\MdToSpeOutput.bundle.scp.css
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeO.A9309E7F.Up2Date
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.dll
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\refint\MdToSpeOutput.dll
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.pdb
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\MdToSpeOutput.genruntimeconfig.cache
+C:\Users\RRai\Riya's Workspace\MdToSpeOutput\MdToSpeOutput\obj\Debug\net8.0\ref\MdToSpeOutput.dll

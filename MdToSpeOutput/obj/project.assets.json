@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RRai\\Documents\\MdToSpeOutput\\MdToSpeOutput\\MdToSpeOutput.csproj",
+      "projectUniqueName": "C:\\Users\\RRai\\Riya's Workspace\\MdToSpeOutput\\MdToSpeOutput\\MdToSpeOutput.csproj",
       "projectName": "MdToSpeOutput",
-      "projectPath": "C:\\Users\\RRai\\Documents\\MdToSpeOutput\\MdToSpeOutput\\MdToSpeOutput.csproj",
+      "projectPath": "C:\\Users\\RRai\\Riya's Workspace\\MdToSpeOutput\\MdToSpeOutput\\MdToSpeOutput.csproj",
       "packagesPath": "C:\\Users\\RRai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RRai\\Documents\\MdToSpeOutput\\MdToSpeOutput\\obj\\",
+      "outputPath": "C:\\Users\\RRai\\Riya's Workspace\\MdToSpeOutput\\MdToSpeOutput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RRai\\AppData\\Roaming\\NuGet\\NuGet.Config"

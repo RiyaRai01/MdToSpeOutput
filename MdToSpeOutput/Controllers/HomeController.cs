@@ -9,6 +9,7 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
+    
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
@@ -16,7 +17,6 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        
         return View();
     }
 
@@ -48,10 +48,9 @@ public class HomeController : Controller
     public string TransformMarkdownToHtml(string markdownContent)
     {
          // Configure the Markdown pipeline
-        var pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Build();
- 
-        // // Convert Markdown to HTML
-        // string html = Markdig.Markdown.ToHtml(markdownText, pipeline);
+        var pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Use<GitHubUserProfileExtension>().Build();
+
+        // string html = Markdig.Markdown.ToHtml(markdownText, pipeline,MarkdownConfig.Pipeline);
         var mdToHtml = Markdig.Markdown.ToHtml(markdownContent,pipeline);
         return mdToHtml;
     }
@@ -61,4 +60,6 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+
 }
